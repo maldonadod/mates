@@ -1,0 +1,12 @@
+{
+  "name": "mates",
+  "version": "1.0.0",
+  "description": "Matematica simple",
+  "main": "index.js",
+  "author": "emaldonado.daniel@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
